@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-
+# Cambios de ejemplo para el taller por el desarrollo Eduar
 
 app = dash.Dash(
     __name__,
